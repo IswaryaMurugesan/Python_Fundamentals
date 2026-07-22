@@ -45,23 +45,6 @@ Understand how to automate repetitive tasks and write reusable code.
 
 ---
 
-### 📁 Customer Support Ticket Analyser
-
-A mini project that applies Python fundamentals to solve a real-world business problem.
-
-**Project Features**
-
-* Customer ticket management
-* User input validation
-* Text cleaning and preprocessing
-* Keyword-based ticket analysis
-* Priority analysis
-* Longest issue identification
-* Unique word extraction
-* Summary and insights generation
-
----
-
 ## 🎯 Learning Outcomes
 
 This repository demonstrates practical experience with:
@@ -74,7 +57,6 @@ This repository demonstrates practical experience with:
 * Functions
 * String manipulation
 * Data cleaning techniques
-* Basic data analysis
 
 ---
 
